@@ -1,16 +1,26 @@
-# lance
+# Lance
 
-A new Flutter project.
+A Flutter-based mobile application for managing and controlling printer operations.
+
+## Features
+
+- Printer management and configuration
+- Print job handling
+- Settings customization
+
+<!-- ## Project Structure -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- A compatible IDE (VS Code, Android Studio, etc.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   flutter pub get
